@@ -27,3 +27,8 @@ and change the place YOUR_GMAIL_PASSWORD
 and run in cmd:
 
 python mail.py "RECEIVER_EMAIL_ID" "SUBJECT_TO_SENT" "MESSAGE_TO_SENT"
+
+SMTP HOSt:
+1.smtp-mail.outlook.com
+2.smtp-mail.com
+3.smtp-gmail.com
